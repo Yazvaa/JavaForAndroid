@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">lesson1</string>
+    <string name="app_name">Lesson1</string>
+    <string name="task2_caption">Задание №2</string>
+    <string name="task3_caption">Задание №3</string>
+    <string name="task4_caption">Задание №3*</string>
+    <string name="task2_typeText">Здесь вводят - Text</string>
+    <string name="task2_textPersonName">Здесь вводят - textPersonName</string>
+    <string name="task2_phone">Здесь вводят - phone</string>
+    <string name="task2_number">Здесь вводят - number</string>
+    <string name="task2_textPassword">Здесь вводят - textPassword</string>
+    <string name="task2_textEmailAddress">Здесь вводят - textEmailAddress</string>
+    <string name="task2_textMultiLine">Здесь вводят - textMultiLine</string>
+    <string name="task3_ems">"Берется буква М английского алфавита в УЖЕ заданном размере шрифта.
+Берётся ширина такой буквы М.
+Это значение и есть 1ems.
+
+n ems = n ширин буквы М"</string>
+
 </resources>
